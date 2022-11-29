@@ -1,0 +1,19 @@
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Release\Herramienta IRLKJI.exe.config
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Release\Herramienta IRLKJI.exe
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Release\Herramienta IRLKJI.pdb
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Release\Herramienta IRLKJI.xml
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.Form1.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.MenuPrinciapl.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.RegistarCuenta.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.Form4.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.MenuActividades.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.MenuNivel.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.Resources.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta_IRLKJI.MenuPerfil.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.vbproj.GenerateResource.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.exe
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.xml
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Release\Herramienta IRLKJI.pdb

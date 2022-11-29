@@ -1,0 +1,139 @@
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\bin\Debug\Proyecto.accdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Herramienta IRLKJI\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form4.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\bin\Debug\Proyecto.accdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\bin\Debug\Proyecto.accdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Herramienta IRLKJI - copia - copia 02 Nov\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+C:\Users\Irvin\Documents\Quinto Semestre\POO\Versiones\Version utilizada en video 1\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+F:\Descargas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form4.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Flashcards1.resources
+F:\Descargas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.EJERCICIO.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Flashcards1.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form4.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.EJERCICIO.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+\\DESKTOP-LQ88BML\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe.config
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.exe
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.pdb
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\bin\Debug\Herramienta IRLKJI.xml
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.AssemblyReference.cache
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Flashcards1.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form1.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPrinciapl.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.RegistarCuenta.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Form4.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.EJERCICIO.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuActividades.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuNivel.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.Resources.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta_IRLKJI.MenuPerfil.resources
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.GenerateResource.cache
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.exe
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.xml
+C:\Users\Ivan Aguirre\Desktop\Tareas\Proyecto\Herramienta IRLKJI\obj\Debug\Herramienta IRLKJI.pdb
